@@ -34,16 +34,16 @@ cuddling with my cats 🐱, or lost in a great book 📚.
 ## Github Stats
 <div align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoomTariq&theme=shadow_blue&layout=donut" alt="My Top Languages" style="max-width: 40%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoomTariq&theme=shadow_blue&layout=donut" alt="My Top Languages" style="max-width: 40%; height: 150px;" />
   </a>
 </div>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalsoomTariq&theme=shadow_blue&show_icons=true" alt="Kalsoom's GitHub stats" style="max-width: 35%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KalsoomTariq&theme=shadow_blue&show_icons=true" alt="Kalsoom's GitHub stats" style="max-width: 20%; height: 150px;" />
 </a>
 &nbsp; &nbsp;
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=KalsoomTariq&theme=shadow_blue" style="max-width: 35%; height: 200px;" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KalsoomTariq&theme=shadow_blue" style="max-width: 20%; height: 150px;" alt="GitHub Streak" />
 </a>
 
 <img src="https://raw.githubusercontent.com/KalsoomTariq/KalsoomTariq/main/assets/jumping_pink_cat.gif" align='right'/>
