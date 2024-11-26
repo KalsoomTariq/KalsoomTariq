@@ -36,8 +36,7 @@ cuddling with my cats 🐱, or lost in a great book 📚.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalsoomTariq&theme=shadow_blue&layout=donut" alt="My Top Languages" style="max-width: 40%; height: 150px;" />
   </a>
-</div>
-</br>
+</br> </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=KalsoomTariq&theme=shadow_blue&show_icons=true" alt="Kalsoom's GitHub stats" style="max-width: 20%; height: 150px;" />
 </a>
@@ -45,7 +44,7 @@ cuddling with my cats 🐱, or lost in a great book 📚.
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=KalsoomTariq&theme=shadow_blue" style="max-width: 20%; height: 150px;" alt="GitHub Streak" />
 </a>
-
+</div>
 <img src="https://raw.githubusercontent.com/KalsoomTariq/KalsoomTariq/main/assets/jumping_pink_cat.gif" align='right'/>
 </br> </br>
 
