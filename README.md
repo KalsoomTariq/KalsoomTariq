@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/KalsoomTariq/KalsoomTariq/main/assets/blue_cat_bg.jpg" width="30%" align="right" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=50&center=true&vCenter=true&multiline=true&width=610&height=100&lines=Hi!+I'm+Kalsoom+Tariq;A+tech+savvy+software+developer+" width="60%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=50&center=true&vCenter=true&multiline=true&width=610&height=100&lines=Hi!+I'm+Kalsoom+Tariq;A+tech+savvy+software+developer+" width="50%" />
 <img src="https://komarev.com/ghpvc/?username=kalsoomtariq&label=Profile%20views&color=0e75b6&style=flat" alt="kalsoomtariq" align="right"/>
 <img src="https://raw.githubusercontent.com/KalsoomTariq/KalsoomTariq/main/assets/kyubey.gif" align='left'/>
 </div>
@@ -10,8 +10,11 @@
 
 ```python
 
-🎓 Currently building something exciting: `a Law Firm Software AI Solution`
-Learning cutting-edge tools like NextJs, Figma, Tailwind, and Docker
+🎓 Currently working on an exciting project, a
+law firm AI and Software Solution
+ 
+Learning cutting-edge tools like NextJs,
+Figma, Tailwind, and Docker
 
 🔗 Curious about my work?
 Check out all my projects on `GitHub` and `Vercel`.
@@ -20,8 +23,10 @@ Feel free to reach out to me anytime at `kalsoomtariq191@gmail.com`
 I’m always up for a good conversation or collaboration!
 
 🎉 Fun fact:
-When I’m not coding, you’ll find me sipping on some freshly brewed tea 🍵,
-cuddling with my cats 🐱, or lost in a great book 📚.
+When I’m not coding, you’ll find me sipping on some
+freshly brewed tea 🍵,
+cuddling with my cats 🐱,
+or lost in a great book 📚.
 ```
 </br>
 <div align='right'>
@@ -40,7 +45,7 @@ cuddling with my cats 🐱, or lost in a great book 📚.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=KalsoomTariq&theme=shadow_blue&show_icons=true" alt="Kalsoom's GitHub stats" style="max-width: 20%; height: 150px;" />
 </a>
-&nbsp; &nbsp;
+&nbsp;
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=KalsoomTariq&theme=shadow_blue" style="max-width: 20%; height: 150px;" alt="GitHub Streak" />
 </a>
