@@ -193,23 +193,23 @@ or lost in a great book 📚.
 
 ## Top Repositories
 <div align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/KalsoomTariq/Web_Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalsoomTariq&repo=Web_Portfolio&theme=shadow_blue" alt="Top Repositories" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/KalsoomTariq/Law-Firm-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalsoomTariq&repo=Law-Firm-Management-System&theme=shadow_blue" alt="Top Repositories" />
   </a>
   </br> </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/KalsoomTariq/Card_Management_HTML-CSS-JS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalsoomTariq&repo=Card_Management_HTML-CSS-JS&theme=shadow_blue" alt="Top Repositories" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/KalsoomTariq/Inspiration_Maven">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalsoomTariq&repo=Inspiration_Maven&theme=shadow_blue" alt="Top Repositories" />
   </a>
   </br> </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/KalsoomTariq/HTML-CSS-JAVA-Coursera">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KalsoomTariq&repo=HTML-CSS-JAVA-Coursera&theme=shadow_blue" alt="Top Repositories" />
   </a>
 </div>
